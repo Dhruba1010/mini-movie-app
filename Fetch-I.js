@@ -5,7 +5,7 @@ let container = document.getElementById("container");
 let myFunc = async() => {
     let movie = document.getElementById("searchMovies").value;
     try {
-        let res = await fetch(`http://www.omdbapi.com/?s=${movie}&apikey=${key}`);
+        let res = await fetch(`https://www.omdbapi.com/?s=${movie}&apikey=${key}`);
         let data = await res.json();
         console.log(data);
         appendMovies (data.Search);
