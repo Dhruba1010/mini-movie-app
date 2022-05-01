@@ -15,7 +15,7 @@ let myFunc = async() => {
     }
 };
 
-
+myFunc();
 
 let appendMovies = (data) => {
     container.innerHTML = null;
