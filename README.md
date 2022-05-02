@@ -7,5 +7,6 @@ You can run this on your local system by Live Share.
 Deployed link :- https://mini-movie-app.vercel.app
 
 Screenshots :- 
-![Screenshot (14)](https://user-images.githubusercontent.com/97454787/166154686-671135dc-86db-48ce-a7d2-e0605d551cc0.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/97454787/166154725-f950e8b5-ad36-4273-aa9a-c5ae3c5c58b7.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/97454787/166258448-22adc279-a55d-4379-8398-8d22520adc0f.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/97454787/166258463-642b3dfd-76f1-4929-804f-07a5890b10d3.png)
+
